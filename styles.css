@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#todo-list {
+    margin-top: 20px;
+}
+
+.todo-item {
+    margin-bottom: 5px;
+}
+
+.todo-item input[type="checkbox"] {
+    margin-right: 10px;
+    cursor: pointer;
+}
